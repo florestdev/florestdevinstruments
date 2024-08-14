@@ -31,4 +31,4 @@ print(f'Сейчас подписано: {str(vk.get_subs())}) на сообще
 ```
 ----------
 # Автор
-Подписывайтесь на мои ресурсы. [Тык](https://telegra.ph/Socseti-Floresta-06-28)
+Подписывайтесь на мои ресурсы. [Тык](https://telegra.ph/Socseti-Floresta-06-28), или [тут](https://taplink.cc/florestone4185).
